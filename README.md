@@ -1,11 +1,9 @@
-# Hello, I am Raphael 👋
+# Hello, I'm Raphael 👋
 
 
-## Skills
+⚡ I’m currently working with **Javascript**, **React.js** , **PL/SQL** and **Docker**.
 
-Working with **Javascript**, **React.js** , **PL/SQL** and **Docker**.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-oliveira-2095/).
+📫 You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-oliveira-2095/).
 
 
 <!--
