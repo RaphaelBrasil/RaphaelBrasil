@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, I am Raphael 👋
+
+
+## Skills
+
+Working with **Javascript**, **React.js** , **PL/SQL** and **Docker**.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-oliveira-2095/).
+
 
 <!--
 **RaphaelBrasil/RaphaelBrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
